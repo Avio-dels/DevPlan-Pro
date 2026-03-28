@@ -92,12 +92,6 @@ npm start
 
 ---
 
-## 🌐 Live Demo
-
-🔗 [https://Avio-dels.github.io/devplan-pro](https://Avio-dels.github.io/devplan-pro)
-
----
-
 ## 📈 Future Improvements
 
 * Backend integration for persistent data storage
