@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="snapshots/1.png" width="600"/>
+  <img src="images/1.png" width="600"/>
 </p>
 
 <hr/>
@@ -70,15 +70,15 @@
 <h2>📸 Screenshots</h2>
 
 <p align="center">
-  <img src="snapshots/1.png" width="250"/>
-  <img src="snapshots/2.png" width="250"/>
-  <img src="snapshots/3.png" width="250"/>
+  <img src="images/1.png" width="250"/>
+  <img src="images/2.png" width="250"/>
+  <img src="images/3.png" width="250"/>
 </p>
 
 <p align="center">
-  <img src="snapshots/4.png" width="250"/>
-  <img src="snapshots/5.png" width="250"/>
-  <img src="snapshots/6.png" width="250"/>
+  <img src="images/4.png" width="250"/>
+  <img src="images/5.png" width="250"/>
+  <img src="images/6.png" width="250"/>
 </p>
 
 <hr/>
