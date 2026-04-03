@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/DevPlan-Pro/static/css/main.e6c13ad2.css",
+    "main.js": "/DevPlan-Pro/static/js/main.69fc0a4d.js",
+    "static/js/453.6ea0d212.chunk.js": "/DevPlan-Pro/static/js/453.6ea0d212.chunk.js",
+    "index.html": "/DevPlan-Pro/index.html",
+    "main.e6c13ad2.css.map": "/DevPlan-Pro/static/css/main.e6c13ad2.css.map",
+    "main.69fc0a4d.js.map": "/DevPlan-Pro/static/js/main.69fc0a4d.js.map",
+    "453.6ea0d212.chunk.js.map": "/DevPlan-Pro/static/js/453.6ea0d212.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.69fc0a4d.js"
+  ]
+}
